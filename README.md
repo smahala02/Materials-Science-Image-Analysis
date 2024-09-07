@@ -98,3 +98,7 @@ Contributions are welcome! If you have ideas to improve the image analysis or ad
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
+## Author
+- [smahala02](https://github.com/smahala02)
+
+
